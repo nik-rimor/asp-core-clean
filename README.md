@@ -1,0 +1,1 @@
+## Pluralsight - Architecting ASP .NET Core applications. Best Practices ##
